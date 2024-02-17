@@ -4,6 +4,11 @@
 ## 🚀 Introduction
 This project harnesses Uber's extensive datasets through advanced tools and technologies including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The goal is to extract meaningful insights and provide a comprehensive view of Uber's operational dynamics.
 
+## Architecture
+
+![image](https://github.com/cyber-prags/Uber-analytics-Data-Engineering-Project/assets/74003758/5386b559-3886-4462-8a76-6bbf750d63c0)
+
+
 ## 🛠️ Technologies Used
 - **Python** – The primary programming language for data analysis.
 - **Google Cloud Platform (GCP):**
